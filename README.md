@@ -13,12 +13,8 @@
  <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
-
-
-
-<### Bonjour 🙂
-
-I'm Alex, Holistic Devsigner 🎨
+### Hello there 🙂
+I'm Tien, 🎨
 
 Colors and words are the runes of our Modern World. When wielded carefully, their power can help your creations shine through the noise!
 
@@ -34,16 +30,10 @@ Colors and words are the runes of our Modern World. When wielded carefully, thei
 |`A`| | |`O`| | | | | | | |
 |`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
 |`I`| | |`Y`| | |`E`| | | | |
-|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/alexmartinfr/)| |
+|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/tien.2612/)| |
 |`M`| | | | | | | | | | |
 
 - 🛠 Contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
 - 🔥 Working with the [ TALLStack ](https://tallstack.dev/)
 - 🐦 Reach me on [ Twitter ](https://twitter.com/alexmartinfr)
-
------
-Credits: [AlexMartinFR](https://github.com/AlexMartinFR)
-
-Last Edited on: 30/08/2020
-1
 
